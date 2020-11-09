@@ -2,7 +2,7 @@
 name: Content Story
 about: Content Story Template
 title: ''
-labels: Enabler Story
+labels: ''
 assignees: ''
 
 ---
