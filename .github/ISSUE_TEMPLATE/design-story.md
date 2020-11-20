@@ -14,7 +14,7 @@ assignees: ''
 
 **Acceptance Criteria:**
 - [ ]
-- [_]
+- [ ]
 
 **Details/Notes:** 
 
