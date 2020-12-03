@@ -14,5 +14,5 @@ So that.
 **Acceptance Criteria:** 
 - [ ] Given, when, then 
 - [ ] Given, when, then 
-- [ ] User Testing for This Story
+
 https://paladinarcher.sharepoint.com/:w:/g/EcZeUGukawJKqcYMs5evUksB-N6pj3Gy6pl7e14uNBz_zg?e=Uc7nAX
