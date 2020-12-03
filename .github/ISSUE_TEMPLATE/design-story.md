@@ -9,15 +9,10 @@ assignees: ''
 
 **Description:**
 
-**Benefit Hypothesis:** 
- “We expect this [business outcome] will be achieved if [these users] successfully achieve [this user outcome] with [this feature]”. 
-
 **Acceptance Criteria:**
 - [ ]
 - [ ]
 
-**Details/Notes:** 
-
-**Toolbox Tools:**
+**Design Thinking Toolbox Tools Used:**
 
 https://paladinarcher-my.sharepoint.com/:w:/p/debra/EZ0xRz_tCjVLvYUa747B8qQB9XyN9lhFPVPa7HII-wQcdA?e=HFBNdS
