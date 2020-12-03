@@ -13,8 +13,5 @@ assignees: ''
 **Acceptance Criteria:**
 - [ ] 
 - [ ] 
-**Nonfunctional Requirements (NFRs):** 
-- [ ]
-**Objectives and Key Results (OKRs)** 
-- [ ]
+
 https://paladinarcher-my.sharepoint.com/:w:/p/debra/ETf8vfojsXlHvUIq1yVtSNoBEcDHgZULFocsjkoMicEGFw?e=IyyhPt
