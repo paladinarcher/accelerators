@@ -15,6 +15,5 @@ assignees: ''
 - [ ] 
 **Nonfunctional Requirements (NFRs):** 
 - [ ]
-**Objectives and Key Results (OKRs)** 
-- [ ]
+
 https://paladinarcher.sharepoint.com/:w:/g/EQOaMl-O_ZlCs6EF3nFO8-wBwDQqTYgrV2Ic9Nvud2xGnQ?e=fLo3wa
