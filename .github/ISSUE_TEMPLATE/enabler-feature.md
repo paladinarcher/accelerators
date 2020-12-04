@@ -8,8 +8,12 @@ assignees: ''
 ---
 
 **Enabler Feature Description:** 
+
+
 **Benefit Hypothesis:** 
-“We expect this [business outcome] will be achieved if [these users] successfully achieve [this user outcome] with [this feature]”.
+“We expect (this enabler) will help enable the tasks in order to acheive the business outcome”.
+
+
 **Acceptance Criteria:**
 - [ ] 
 - [ ] 
