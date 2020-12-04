@@ -13,6 +13,5 @@ assignees: ''
 - [ ]
 - [ ]
 
-**Design Thinking Toolbox Tools Used:**
 
-https://paladinarcher-my.sharepoint.com/:w:/p/debra/EZ0xRz_tCjVLvYUa747B8qQB9XyN9lhFPVPa7HII-wQcdA?e=HFBNdS
+[Design Story Template & Guide](https://paladinarcher-my.sharepoint.com/:w:/p/debra/EZ0xRz_tCjVLvYUa747B8qQB9XyN9lhFPVPa7HII-wQcdA?e=HFBNdS)
