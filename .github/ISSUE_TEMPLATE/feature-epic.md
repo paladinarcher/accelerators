@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Description:**
-(
+
 
 **Benefit Hypothesis:**
 
@@ -20,3 +20,5 @@ assignees: ''
 
 **Nonfunctional Requirements (NFRs):**
 - [ ]
+
+NFRs are technical constraints. Simply define them.
