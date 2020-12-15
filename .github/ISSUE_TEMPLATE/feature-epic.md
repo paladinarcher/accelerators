@@ -22,3 +22,4 @@ assignees: ''
 - [ ]
 
 NFRs are technical constraints. Simply define them.
+<input placeholder="text">
