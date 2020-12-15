@@ -22,8 +22,4 @@ assignees: ''
 - [ ]
 
 NFRs are technical constraints. Simply define them.
-placeholder="Search..."
-              onFocus={(e) => e.target.placeholder = ''}
-              onBlur={(e) => e.target.placeholder = 'Search...'}
-Begin "Search..."
-Begin 'Search...'
+
