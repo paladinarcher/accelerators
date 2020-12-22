@@ -19,9 +19,16 @@ assignees: ''
 
 **Business Outcomes** _the measurable benefits that the business can anticipate if the epic hypothesis is proven to be correct_
 **Leading Indicators** _the early measures that will help predict the business outcome hypothesis_
+
 **Nonfunctional Requirements**
+- [ ]
+- [ ]
 
-**Acceptance Criteria:**
+**Minimum Viable Product Features:**
 
 - [ ] 
 - [ ] 
+
+**Additional Potential Features:**
+- [ ]
+- [ ]
