@@ -17,6 +17,7 @@ so I can _value statement_
 
 
 **Acceptance Criteria**
+- [ ] Includes Call to Action (how you plan to motivate your customer to take the next step)
 - [ ] Meets plain language requirement for 4th grade level
 - [ ] Use pronouns
 - [ ] Use Active Voice
