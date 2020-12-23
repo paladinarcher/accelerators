@@ -7,7 +7,13 @@ assignees: ''
 
 ---
 
-**Description**
+**Content Title**
+
+**Content Story:**
+As a _persona_
+I want a _content type_
+about _topic_
+so I can _value statement_
 
 
 **Acceptance Criteria**
