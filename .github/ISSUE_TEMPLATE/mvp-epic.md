@@ -10,10 +10,10 @@ assignees: ''
 **Description:**
 
 **Acceptance Criteria:**
-- [ ] Reference Gartner data on successful SaaS products
-- [ ] Directs exclusion of extraneous features
-- [ ] Emphasizes importance of early user feedback
-- [ ]  Reuse SAFe MVP template as applicable
+- [ ] References Gartner data on successful SaaS products
+- [ ] Excludes extraneous features
+- [ ] Desined to acquire user feedback as early as possible
+- [ ]  
 
 **Business Outcomes:** 
 
