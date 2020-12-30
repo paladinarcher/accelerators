@@ -597,4 +597,4 @@ this.demoTest = function (browser) {
 <h5><a href="https://nightwatchjs.org/api/commands/">API Commands</a></h5>
 
 <h2>Continuous Testing</h2>
-<h3 class="jenkins"><a href="">https://www.tutorialspoint.com/jenkins/jenkins_automated_testing.htm</a>Jenkins Automated Testing</h3>
+<h3><a href="https://www.tutorialspoint.com/jenkins/jenkins_automated_testing"></a>Jenkins</h3>
