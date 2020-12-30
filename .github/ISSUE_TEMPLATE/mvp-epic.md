@@ -1,6 +1,6 @@
 ---
-name: MVP Epic
-about: MVP Epic Template
+name: Epic MVP
+about: Epic MVP Template
 title: ''
 labels: Epic
 assignees: ''
@@ -9,6 +9,11 @@ assignees: ''
 
 **Description:**
 
+**Acceptance Criteria:**
+- [ ] Reference Gartner data on successful SaaS products
+- [ ] Directs exclusion of extraneous features
+- [ ] Emphasizes importance of early user feedback
+- [ ]  Reuse SAFe MVP template as applicable
 
 **Business Outcomes:** 
 
