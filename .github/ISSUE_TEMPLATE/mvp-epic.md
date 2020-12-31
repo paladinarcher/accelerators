@@ -9,7 +9,6 @@ assignees: ''
 
 **Description:**
 The _MVP name_ will include:
-It will exclude:
 It will allow users to:
 Feedback from users will be acquired by:
 
