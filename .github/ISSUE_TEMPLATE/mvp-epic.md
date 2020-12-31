@@ -1,6 +1,6 @@
 ---
 name: Epic MVP
-about: Epic MVP Template
+about: MVP Template for an Epic
 title: ''
 labels: Epic
 assignees: ''
@@ -9,20 +9,11 @@ assignees: ''
 
 **Description:**
 
+
 **Acceptance Criteria:**
-- [ ] References Gartner data on successful SaaS products
+- [ ] Core function(s) defined 
 - [ ] Excludes extraneous features
-- [ ] Desined to acquire user feedback as early as possible
-- [ ]  
-
-**Business Outcomes:** 
+- [ ] Designed to acquire user feedback as early as possible
+- [ ] References Gartner data on successful SaaS products
 
 
-
-**Leading Indicators:** 
-
-- [ ] 
-
-**Nonfunctional Requirements (NFRs):**
-
-- [ ]
