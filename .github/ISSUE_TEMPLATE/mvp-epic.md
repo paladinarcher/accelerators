@@ -2,15 +2,16 @@
 name: Epic MVP
 about: MVP Template for an Epic
 title: ''
-labels:
+labels: Epic
 assignees: ''
 
 ---
 
-**Description:**
-The _MVP name_ will include:
-It will allow users to:
-Feedback from users will be acquired by:
+**Value Statement:**
+The _MVP name_ will allow the user to _performance of benefit_
+Who will it target? (market segment)
+How will the target evaluate it?
+How will feedback from target be gathered?
 
 **Acceptance Criteria:**
 - [ ] Core function(s) defined 
