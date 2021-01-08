@@ -1,6 +1,6 @@
 ---
 name: Enabler Design Prototype Story
-about: EEnabler Design Prototype Story Template
+about: Enabler Design Prototype Story Template
 title: ''
 labels: Enabler
 assignees: ''
