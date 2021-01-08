@@ -1,3 +1,12 @@
+---
+name: Enabler Design Prototype Story
+about: EEnabler Design Prototype Story Template
+title: ''
+labels: Enabler
+assignees: ''
+
+---
+
 **Description:** _type of prototype: paper, wireframe, digital design, or code?_
 
 **Link to Design Prototype:** 
