@@ -3,7 +3,8 @@
 **Link to Design Prototype:** 
 
 **Acceptance Criteria:**
-- [ ] Incorporates design principles
+- [ ] Incorporates design thinking processes: Discover, Define, Develop, Deliver
+- [ ] Each process involves techniques of divergent and convergent thinking
 - [ ] Utilizes user personas
 - [ ] Incorporates empathy mapping
 - [ ] Incorporates journey mapping
