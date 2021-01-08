@@ -4,6 +4,9 @@
 
 **Acceptance Criteria:**
 - [ ] Incorporates design principles
+- [ ] Utilizes user personas
+- [ ] Incorporates empathy mapping
+- [ ] Incorporates journey mapping
 - [ ] Design solution is desirable by users/customers
 - [ ] Solution is feasible (can be achieved with what we have or can acquire)
 - [ ] Solution is viable (value produced is enough to justify cost)
