@@ -2,3 +2,5 @@
 
 **Link to Design Prototype:** 
 
+**Acceptance Criteria:**
+- [ ] Incorporates design principles
