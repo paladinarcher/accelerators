@@ -6,9 +6,9 @@ labels: Enabler, Epic
 assignees: ''
 
 ---
+**API Prototype Name:**
 
-**Epic Description:** _elevator pitch value statement_
-
+**Epic Description:** _elevator pitch value statement: value/benefit to user/customer + value to business/stakeholders_
 
 - [ ] Establish domain semantics
 - [ ] Define architectural style
