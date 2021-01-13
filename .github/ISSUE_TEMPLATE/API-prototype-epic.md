@@ -15,7 +15,7 @@ assignees: ''
 - [ ] Formalize style guide
 - [ ] Identify resources
 - [ ] Define resource states
-- [ ] Write API description
+- [ ] Write API description (use Swagger/OpenAPI Specifications)
 - [ ] Use Mock server
 - [ ] Put API description on Github
 - [ ] Share, review, get feedback from stakeholders and users
